@@ -1,0 +1,188 @@
+
+p{
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+.header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 7px;
+    position: fixed;
+    float: right;
+    background-color: #fff;
+    width: 100%;
+    height: 80px;
+}
+
+.qwe{
+    float: right;
+}
+
+#master{
+    font-size: 32px;
+    color: #2C2C2C;
+    padding-left: 30px;
+    font-family: 'Cookie', cursive;
+}
+
+.farsh a{
+    text-decoration: none;
+    color: #2C2C2C;
+    margin: 10px;
+}
+
+
+
+.farsh a:hover{
+    color: #474747;
+}
+
+#umni{
+    margin: 29px;
+}
+
+.farsh button{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    background-color: #2C2C2C;
+    color: white;   
+    padding: 14px;
+}
+.farsh button:hover{
+    background-color: #434343;
+}
+
+
+
+.two_header{
+    background-color: #566573;
+    padding: 0;
+    text-align: center;
+    margin: 7px;
+}
+
+#two_header_text{
+    padding-top: 150px;
+    padding-bottom: 7px;
+    color: aliceblue;
+    font-size: 36px;
+}
+
+#line{
+    border-bottom: 2px solid currentColor;
+}
+
+.two_header p{
+    color: aliceblue;
+    font-size: 24px;    
+    margin: 0;
+    padding: 0;
+    padding-bottom: 58px;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button button{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-align: center;
+    border: none;
+    background-color: white;
+    color: #2C2C2C;   
+    padding: 14px;
+}
+.button button:hover{
+    background-color: #B3B6B7;
+}
+
+
+.button{
+    padding-bottom: 58px;
+}
+
+.nadezhni{
+    text-align: center;
+    font-size: 26px;
+    padding-top: 67px;
+}
+
+.nadezhni button{
+        -webkit-transition-duration: 0.4s;
+        transition-duration: 0.4s;
+        background-color: white;
+        font-size: 17px;
+        padding: 9px;
+        border: 1px solid #2C2C2C;
+} 
+.nadezhni button:hover {
+        background-color: #2C2C2C;
+        color: white;
+}
+
+#luchi{
+    padding-left: 25px;
+    padding-right: 67px;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+#komanda{
+    text-align: center;
+    padding-top: 107px;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 24px;
+}
+
+.row{
+    text-align: center;
+    padding-top: 27px;
+    padding-bottom: 157px;
+}
+
+#ppp p{
+    text-align: center;
+}
+
+#zagalovok{
+    text-align: center;
+    font-size: 26px;
+    font-family: 'Comfortaa', sans-serif;
+    padding-bottom: 49px;
+}
+
+#krasivi_landing{
+    font-size: 11px;
+    margin: 0;
+    padding-top: 50px;
+}
+
+#krasivi_text{
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 167px;
+}
+
+
+.btnbtn button{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    text-align: center;
+    border: 1px solid #2C2C2C;
+    background-color: white;
+    color: #2C2C2C;   
+    padding: 7px;
+    margin: 10px;
+}
+
+.btnbtn button:hover{
+        background-color: #E5E5E5;
+}
+
+#landing_page p{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+}
