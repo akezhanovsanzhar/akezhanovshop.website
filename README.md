@@ -1,0 +1,1 @@
+# akezhanovshop.magazin
